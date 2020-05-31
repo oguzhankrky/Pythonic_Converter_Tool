@@ -1,6 +1,6 @@
 ● The tool takes command line arguments according to the formats you want to convert
 between them. A typical command line usage is as follows:
-python <filename> <input file> <output file/xsd file> <type>
+python  <filename> <input file> <output file/xsd file> <type>
 
 ● The first argument, <filename> is the python file for conversion operations, <input
 file> refers to the source filename which will be converted and the third one,

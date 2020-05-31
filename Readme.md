@@ -9,7 +9,7 @@ file> refers to the source filename which will be converted and the third one,
 4=JSON to XML, 5=CSV to JSON, 6=JSON to CSV,7=XML validates with XSD)
 
 ● The sample command line usage converting from XML to JSON as follows::
-python student_id.py test.xml test.json 3
+python ConverterTool.py test.xml test.json 3
 
 csv file explanation:
 

@@ -1,6 +1,6 @@
 ● The tool takes command line arguments according to the formats you want to convert
 between them. A typical command line usage is as follows:
-# python filename input file output file/xsd file type
+<filename> <input file> <output file/xsd file> <type>
 
 ● The first argument, <filename> is the python file for conversion operations, <input
 file> refers to the source filename which will be converted and the third one,
@@ -11,6 +11,5 @@ file> refers to the source filename which will be converted and the third one,
 ● The sample command line usage converting from XML to JSON as follows:
 python ConverterTool.py test.xml test.json 3
 
-csv file explanation:
-
+# csv file explanation:
 ![image](https://github.com/oguzhankrky/Pythonic_Converter_Tool/blob/master/images/csv_file_explanation.png)

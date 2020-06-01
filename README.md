@@ -11,5 +11,5 @@ file"> refers to the source filename which will be converted and the third one,
 ● The sample command line usage converting from XML to JSON as follows:
 python ConverterTool.py test.xml test.json 3
 
-# csv file explanation
+# Csv file explanation
 ![image](https://github.com/oguzhankrky/Pythonic_Converter_Tool/blob/master/images/csv_file_explanation.png)
